@@ -1,4 +1,4 @@
-# Decsription du Project
+# Description du Project
 
 Ce projet vise à acquérir des données de différentes sources de l’agglomération Lyonnaise concernant le trafic routier, la météo et le niveau de pollution constaté. Des sources sont proposées plus loin dans la section Données. En utilisant ces données, on construira un système d’alerte à la pollution.
 
